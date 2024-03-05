@@ -1,2 +1,3 @@
 # Jupyter
-some jupyter notebooks
+some jupyter notebooks for testing gpu load.
+use carfully
